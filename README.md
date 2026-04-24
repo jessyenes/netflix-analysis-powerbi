@@ -40,4 +40,4 @@ KPIs (Total de títulos, filmes e séries)
 Evolução temporal do catálogo
 Top países produtores
 Gêneros mais populares
-(image.png)
+<img width="1427" height="803" alt="image" src="https://github.com/user-attachments/assets/979d1586-f9db-4575-a532-e7b9b32e2413" />
